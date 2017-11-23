@@ -39,6 +39,25 @@
     },
     "resources": [
         {
+            "Key": "00d6e564-48fe-4d3c-9e24-a75469fbc195",
+            "Value": {
+                "id": "5e652ce0-1a31-4af6-9500-349bdffea41a",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/oFlyingEnemy\/oFlyingEnemy.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "053abde5-c461-4e81-81f6-c01dcbda9173",
             "Value": {
                 "id": "ffab1f3f-ddbd-4181-9ea2-f35037bce5cb",
@@ -834,6 +853,25 @@
                 ],
                 "resourcePath": "views\/dd146f6b-f542-4928-a2f0-89534937d8e5.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e3aa2311-e940-41c4-8f99-f2280113cbdc",
+            "Value": {
+                "id": "c98fa665-bbf3-4114-8865-3625a2744e7d",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sprite16\/sprite16.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
