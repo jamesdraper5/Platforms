@@ -22,12 +22,14 @@
               border: 0px;
             }
             canvas {
-                      image-rendering: optimizeSpeed;
-                      -webkit-interpolation-mode: nearest-neighbor;
-                      -ms-touch-action: none;
-                      margin: 0px;
-                      padding: 0px;
-                      border: 0px;
+                image-rendering: optimizeSpeed;
+                -webkit-interpolation-mode: nearest-neighbor;
+                -ms-touch-action: none;
+                border: 1px solid white;
+                padding: 10px;
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
             }
             :-webkit-full-screen #canvas {
                  width: 100%;
@@ -35,11 +37,6 @@
             }
             div.gm4html5_div_class
             {
-                position: fixed;
-                top: 50%;
-                left: 50%;
-                margin-left: -384px;
-                margin-top: -336px;
                 padding: 0px;
                 border: 2px;
                 border-color: white;
@@ -53,11 +50,7 @@
             }
             div.game-header {
                 padding: 40px;
-                margin-bottom: 50px;
-            }
-            canvas.game-canvas {
-                border: 1px solid white;
-                padding: 10px;
+                margin-bottom: 20px;
             }
         </style>
     </head>
@@ -69,7 +62,7 @@
         </div>
         <div class="gm4html5_div_class" id="gm4html5_div_id">
             <!-- Create the canvas element the game draws to -->
-            <canvas class="game-canvas" id="canvas" width="1024" height="768">
+            <canvas id="canvas" width="1024" height="768">
                <p>Your browser doesn't support HTML5 canvas.</p>
             </canvas>
         </div>
