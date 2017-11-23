@@ -2,7 +2,7 @@
     "id": "0da026c1-561f-4d35-b5ce-fd8c2704ac06",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sprite15",
+    "name": "bugsprite",
     "For3D": false,
     "HTile": false,
     "VTile": false,
