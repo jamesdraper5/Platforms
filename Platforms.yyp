@@ -780,6 +780,25 @@
             }
         },
         {
+            "Key": "c3a8557b-0cc2-4614-a426-f649ae60d58e",
+            "Value": {
+                "id": "f46d3844-103b-4965-a01d-2d4e67839c4f",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sFlyingEnemyD\/sFlyingEnemyD.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c6b4f7f4-5392-4db2-8947-cafe33afcfdd",
             "Value": {
                 "id": "ecfe36cb-68ec-4138-8a19-471b6e385bc1",
@@ -814,25 +833,6 @@
                     "default"
                 ],
                 "resourcePath": "sprites\/bug\/bug.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "cd3aaee4-9c4d-41ec-9670-884d682007ef",
-            "Value": {
-                "id": "49f31d0c-6e4c-4f93-985c-3d20e314cac7",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sprites\/sprite13\/sprite13.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1081,6 +1081,25 @@
                 ],
                 "resourcePath": "views\/f46d6a11-2633-48cd-89e5-ce488465a2a8.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f6353968-e3a2-4354-b647-bd68dff95d6a",
+            "Value": {
+                "id": "a4f0ba2b-11be-4c1b-b030-3227ffa08f6e",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/oFlyingDead\/oFlyingDead.yy",
+                "resourceType": "GMObject"
             }
         },
         {
