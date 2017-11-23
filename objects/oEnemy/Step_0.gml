@@ -30,6 +30,12 @@ if (place_meeting (x,y+vsp,oWall)) {
 	
 }
 
+//Attack
+if (attackcount < attacktime) { //If we havent reached the max yet
+    attackcount++; //Increase with 1 every step
+}
+
+
 y = y + vsp;
 
 //Animation
