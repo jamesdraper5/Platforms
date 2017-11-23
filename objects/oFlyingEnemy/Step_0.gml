@@ -2,7 +2,7 @@
 
 vsp = vsp + grv;
 
-sprite_index = sEnemyA;
+sprite_index = bug;
 
 //Animation
 
