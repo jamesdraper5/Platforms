@@ -14,3 +14,14 @@ if (hp <= 0) {
 	
 	instance_destroy();
 }
+
+// Head towards player
+//mp_potential_step(oPlayer.x,oPlayer.y,2,true);
+move_towards_point( oPlayer.x, oPlayer.y, 2 ); 
+/*
+if instance_exists(oEnemy) {
+   var inst;
+   inst = instance_nearest(x, y, oEnemy);
+   mp_potential_step(inst.x, inst.y, 5, false);
+}
+*/
