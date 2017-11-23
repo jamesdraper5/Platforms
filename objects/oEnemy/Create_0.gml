@@ -9,6 +9,3 @@ hp = 3;
 flash = 0;
 hitfrom =0;
 
-attackcount = 0;
-attacktime = room_speed*2; //2 seconds
-attackstrength = 20;
