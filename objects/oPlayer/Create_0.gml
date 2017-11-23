@@ -6,3 +6,4 @@ grv = 0.3;
 walksp = 4;
 hascontrol = true;
 hp = 3;
+flash = 0;

@@ -17,7 +17,7 @@ if (hp <= 0) {
 
 // Head towards player
 //mp_potential_step(oPlayer.x,oPlayer.y,2,true);
-move_towards_point( oPlayer.x, oPlayer.y, 2 ); 
+//move_towards_point( oPlayer.x, oPlayer.y, 2 ); 
 /*
 if instance_exists(oEnemy) {
    var inst;
